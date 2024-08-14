@@ -2,25 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=enthusiastdev121&color=green)
 
-This is my address: <br/>
-skype😘: live:.cid.594c6a2b7925f05a
-<br />
-gmail 📨: enthusiastdev121@gmail.com
-<br />
-
-### My Working Style
-
-<p align="left">
-💗Full-time developer (40+ hours per week)<br />
-💗Working in your time zone & Good communication.<br />
-💗Update the result daily, every week<br />
-💗Keep on-Time, on-Budget<br />
-💗100% ongoing satisfaction with your project.<br />
-💗Provide the result with high quality<br />
-💗Lifetime Free Bug-Fix support after completion<br />
-💗Agile Scrum workflow!<br />
-</p>
-
 <br />
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
@@ -153,17 +134,10 @@ gmail 📨: enthusiastdev121@gmail.com
 
 ### ⚙️ &nbsp;Some Stats
 
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=enthusiastdev121&show_icons=true&theme=radical&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=enthusiastdev121&theme=radical&hide_border=true" />
-</p>
-<br>
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=enthusiastdev121&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
-</p>
-<br />
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=enthusiastdev121&theme=monokai" (https://github.com/ryo-ma/github-profile-trophy) />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enthusiastdev121&show_icons=true&locale=en&layout=compact" alt="enthusiastdev121" /></p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enthusiastdev121&show_icons=true&locale=en" alt="enthusiastdev121" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enthusiastdev121&" alt="enthusiastdev121" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enthusiastdev121" alt="enthusiastdev121" /></a> </p>
