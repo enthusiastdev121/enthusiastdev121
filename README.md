@@ -1,11 +1,16 @@
-## Hi, I'm Senior Full Stack developer 👋
+## <div style="flex-direction: row"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" width="80" height="80"> <img src="https://camo.githubusercontent.com/91dd15fe48d6cf4c3e9832e2916d70f60e05584789ff359cd32c8d8b22960d5f/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d2b53656e696f7225323046726f6e74253230456e64253230446576656c6f7065723b46756c6c253230537461636b253230446576656c6f7065723b3825324225323079656172732532306f66253230726963682532304954253230657870657269656e63653b26666f6e743d416e746f6e2663656e7465723d747275652677696474683d363530266865696768743d31323026636f6c6f723d353861366666267643656e7465723d747275652673697a653d3435253232" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front%20End%20Developer;Full%20Stack%20Developer;8%2B%20years%20of%20rich%20IT%20experience;&amp;font=Anton&amp;center=true&amp;width=650&amp;height=120&amp;color=58a6ff&amp;vCenter=true&amp;size=45%22" style="max-width: 100%;"> </div>
 
 ![](https://komarev.com/ghpvc/?username=enthusiastdev121&color=green)
 
 <br />
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<div style="flex-direction: row">
+  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" height="35">
+  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="57" height="57">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
+</div>
 
+    
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -121,16 +126,6 @@
  </tr>
 </table>
 <br/>
-
-### 💡 &nbsp;Interested in
-
-![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)&nbsp;
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)&nbsp;
-![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white)&nbsp;
-
-<br />
 
 ### ⚙️ &nbsp;Some Stats
 
