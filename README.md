@@ -127,7 +127,7 @@
 </table>
 <br/>
 
-### ⚙️ &nbsp;Some Stats
+### <div style="flex-direction: row"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="35" height="35"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" width="57" height="57"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"></div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enthusiastdev121&show_icons=true&locale=en&layout=compact" alt="enthusiastdev121" /></p>
 
