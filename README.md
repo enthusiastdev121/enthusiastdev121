@@ -131,7 +131,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enthusiastdev121&show_icons=true&locale=en&layout=compact" alt="enthusiastdev121" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enthusiastdev121&show_icons=true&locale=en" alt="enthusiastdev121" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enthusiastdev121&show_icons=true&locale=en&count_private=true" alt="enthusiastdev121" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enthusiastdev121&" alt="enthusiastdev121" /></p>
 
